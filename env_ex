@@ -1,0 +1,10 @@
+DB_USUARIO="postgres"
+DB_HOST="localhost"
+DB_SENHA="fatec123*"
+DB_PORTA="5432"
+DB_DATABASE="teste"
+
+
+
+JWT_CHAVE="chavedoida"
+JWT_EXPIRESIN="24h"
