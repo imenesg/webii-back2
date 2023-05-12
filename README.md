@@ -10,3 +10,4 @@ CREATE TABLE usuarios (
     email varchar(50) NOT NULL,
     senha varchar(30) NOT NULL
 );
+ 
